@@ -1,7 +1,7 @@
 # Code : Vercel github action deploy =>
 #Source : https://vercel.com/guides/how-can-i-use-github-actions-with-vercel#configuring-github-actions-for-vercel
 
-name: Vercel Preview Deployment
+name: Vercel Preview Production
 env:
   VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
   VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID_PROD }}
