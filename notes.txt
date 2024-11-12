@@ -1,0 +1,6 @@
+kazamarketplace@gmail.com
+1 - https://ui.shadcn.com/docs/installation/next
+npx shadcn@latest init
+
+
+
